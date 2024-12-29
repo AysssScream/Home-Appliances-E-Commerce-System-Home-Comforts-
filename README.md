@@ -1,46 +1,41 @@
-# AccesiJobs: Job Finder Platform for PWDs
+<div align="center">
+  <img src="images/logo.png" width="200" height="200" alt="Home Comforts Logo">
+  
+  # 🏠 Home Comforts
+  ### Your One-Stop Home Appliances E-Commerce Platform
+  
+  [![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-2C3E50?style=for-the-badge)](https://www.sap.com/products/crystal-reports.html)
+</div>
 
-## Description
-AccesiJobs is a specialized job search platform designed for Persons with Disabilities (PWDs). The platform features an accessible interface and smart resume parsing to help PWDs find suitable employment opportunities in Mandaluyong City.
+<div align="center">
+  <img src="images/banner.png" alt="Home Comforts Banner" width="800">
+</div>
 
-## Key Features
-- Accessible job search interface
-- Resume parsing and analysis
-- Job recommendations based on skills
-- Employment analytics dashboard
-- PWD-friendly user interface
+## 📌 Overview
+Home Comforts revolutionizes the home appliance shopping experience with a user-friendly desktop application. Built with VB.NET and MySQL, it offers a seamless shopping journey from browsing to checkout.
 
-## Technologies Used
-- Frontend: HTML, JavaScript, Bootstrap, Tailwind CSS
-- Backend: PHP, Laravel, Python
-- Database: MySQL
-- APIs: PythonAnywhere, Flask
-- Resume Parsing: Natural Language Processing
+## ✨ Key Features
 
-## Screenshots
-![Homepage](images/homepage.png)
-*Homepage with accessible interface*
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🛍️<br><b>Product Catalog</b></td>
+      <td align="center">🛒<br><b>Shopping Cart</b></td>
+      <td align="center">💳<br><b>Secure Checkout</b></td>
+      <td align="center">📦<br><b>Order Tracking</b></td>
+    </tr>
+  </table>
+</div>
 
-![Job Search](images/job-search.png)
-*Job search results with filters*
+## 🖥️ Interface Previews
 
-## How It Works
-1. **User Registration**
-   - PWD users can create accounts
-   - Upload their resumes
-   - Set job preferences
+<div align="center">
+  <img src="images/dashboard.png" width="400" alt="Dashboard">
+  <img src="images/cart.png" width="400" alt="Shopping Cart">
+  <p><i>Left: Main Dashboard | Right: Shopping Cart Interface</i></p>
+</div>
 
-2. **Resume Parsing**
-   - System analyzes uploaded resumes
-   - Extracts key skills and qualifications
-   - Matches with job requirements
+## 🔧 System Architecture
 
-3. **Job Matching**
-   - AI-powered job recommendations
-   - Filters jobs based on accessibility needs
-   - Shows matching percentage for each job
-
-4. **Analytics**
-   - Generates employment insights
-   - Tracks application status
-   - Provides market demand analysis
