@@ -48,13 +48,6 @@ Home Comforts revolutionizes the home appliance shopping experience with a user-
 | 👥 Customer Management | User data handling |
 | 📋 Order Processing | Order fulfillment system |
 
-## 🗄️ Database Structure
-
-<div align="center">
-  <img src="images/erd.png" width="600" alt="Entity Relationship Diagram">
-  <p><i>Entity Relationship Diagram</i></p>
-</div>
-
 ## 🚀 Technical Implementation
 - **Frontend**: VB.NET Windows Forms
   - Custom UI controls
@@ -92,7 +85,6 @@ As the Full-Stack Developer, responsibilities included:
     <tr>
       <td align="center">VB.NET</td>
       <td align="center">MySQL</td>
-      <td align="center">Crystal Reports</td>
     </tr>
   </table>
 </div>
