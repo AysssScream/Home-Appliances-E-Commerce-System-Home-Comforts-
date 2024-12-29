@@ -1,0 +1,20 @@
+﻿Public Structure Colors
+    Public Shared primary = Color.FromArgb(45, 106, 79)
+    Public Shared primaryLight = Color.FromArgb(64, 145, 108)
+    Public Shared black = Color.FromArgb(0, 0, 0)
+    Public Shared blackSecondary = Color.FromArgb(37, 36, 34)
+    Public Shared grey = Color.FromArgb(222, 226, 230)
+    Public Shared white = Color.FromArgb(255, 255, 255)
+    Public Shared whiteSecondary = Color.FromArgb(241, 245, 242)
+    Public Shared red = Color.FromArgb(231, 29, 54)
+    Public Shared redSecondary = Color.FromArgb(231, 111, 81)
+    Public Shared blue = Color.FromArgb(1, 42, 74)
+    Public Shared blueSecondary = Color.FromArgb(1, 58, 99)
+    Public Shared lightBlue = Color.FromArgb(42, 111, 151)
+    Public Shared lightBlueSecondary = Color.FromArgb(70, 143, 175)
+    Public Shared orange = Color.FromArgb(247, 127, 0)
+    Public Shared orangeSecondary = Color.FromArgb(248, 150, 30)
+
+    Public Shared pageColor = Color.FromArgb(241, 245, 242)
+    Public Shared panelColor = Color.FromArgb(255, 255, 255)
+End Structure
