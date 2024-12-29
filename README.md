@@ -22,25 +22,24 @@ Home Comforts revolutionizes the home appliance shopping experience with a user-
   </table>
 </div>
 
-## 🖥️ System Screenshots
-
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://github.com/user-attachments/assets/cc97bfd6-b12f-4bb3-9ba3-e1de4accb20e" width="400">
-    <img src="https://github.com/user-attachments/assets/98da4710-5014-44ac-b2b2-7ec054ff7195" width="400">
-  </div>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/232c8ddb-068a-4617-b286-2181e5e9148d" width="400">
-    <img src="https://github.com/user-attachments/assets/15d7bca4-b045-4578-86bd-d44ab534a852" width="400">
-  </div>
+  <img src="https://github.com/user-attachments/assets/cc97bfd6-b12f-4bb3-9ba3-e1de4accb20e" width="600">
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/98da4710-5014-44ac-b2b2-7ec054ff7195" width="600">
+</div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/98da4710-5014-44ac-b2b2-7ec054ff7195" width="600">
+</div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/232c8ddb-068a-4617-b286-2181e5e9148d" width="600">
+</div>
 
-
-  <p><i>Left: Main Dashboard | Right: Shopping Cart Interface</i></p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/15d7bca4-b045-4578-86bd-d44ab534a852" width="600">
 </div>
 
 ## 💫 Core Functionalities
@@ -77,12 +76,6 @@ Home Comforts revolutionizes the home appliance shopping experience with a user-
   - Quick retrieval systems
   - Data integrity
 
-## 📊 Analytics Dashboard
-
-<div align="center">
-  <img src="images/analytics.png" width="600" alt="Analytics Dashboard">
-  <p><i>Comprehensive Sales and Inventory Analytics</i></p>
-</div>
 
 ## 👨‍💻 Developer Role
 As the Full-Stack Developer, responsibilities included:
