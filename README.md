@@ -25,8 +25,8 @@ Home Comforts revolutionizes the home appliance shopping experience with a user-
 ## 🖥️ Interface Previews
 
 <div align="center">
-  <img src="images/dashboard.png" width="400" alt="Dashboard">
-  <img src="images/cart.png" width="400" alt="Shopping Cart">
+![image](https://github.com/user-attachments/assets/cc97bfd6-b12f-4bb3-9ba3-e1de4accb20e)
+
   <p><i>Left: Main Dashboard | Right: Shopping Cart Interface</i></p>
 </div>
 
